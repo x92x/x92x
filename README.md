@@ -14,7 +14,7 @@
 <p>
 	<h3>🌐 Socials:</h3>
 	<ul>
-		<li>Discord <strong>.x92.</strong> or <a href="https://discord.gg/XbHtA8v4KS">discord.gg/gamesense</a></li>
+		<li>Discord <strong>.x92.</strong> or <a href="https://discord.gg/GW3hBm5zc5">discord.gg/Dev-Server</a></li>
 		<li>Email <a href="mailto:fbinuub@gmail.com">fbinuub@gmail.com</a></li>
 	</ul>
 </p>
@@ -23,8 +23,6 @@
 
  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCF8aDHGIuykzJiffm4aouiw) 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=x92x&limit=5&theme=dark&combine_all_yearly_contributions=true)
